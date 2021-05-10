@@ -1,0 +1,1 @@
+Bath Room MagicMirror project
